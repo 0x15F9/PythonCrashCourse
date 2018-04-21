@@ -1,0 +1,1 @@
+print("I already have style B)")
