@@ -17,3 +17,7 @@ author: https://ehmatthes.github.io/pcc/
 
 * Cheatsheets - https://ehmatthes.github.io/pcc/cheatsheets/README.html
 * Weather Datasets - https://www.wunderground.com/history 
+* NASA dataset: https://eosweb.larc.nasa.gov/cgi-bin/sse/interann.cgi
+* Weather Dataset(Free) - https://en.tutiempo.net/climate/ws-619950.html
+* population data: http://data.okfn.org/
+* World Bank: http://data.worldbank.org/indicator
