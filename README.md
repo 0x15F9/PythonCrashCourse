@@ -12,6 +12,7 @@ author: https://ehmatthes.github.io/pcc/
 * PyGame Documentation - https://www.pygame.org/docs/
 * PyPlot Documentation - https://matplotlib.org/api/pyplot_api.html
 * PyGal Documentation - http://www.pygal.org/en/stable/documentation/index.html
+* Django Documentation - https://docs.djangoproject.com/en/2.0/
 
 ## Cool links and Resources
 
