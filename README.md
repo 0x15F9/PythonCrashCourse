@@ -5,6 +5,16 @@ book: https://nostarch.com/pythoncrashcourse
 
 author: https://ehmatthes.github.io/pcc/
 
+## Final Thoughts:
+
+### Pros
++ Great book for returning python programmers as well as newcomers
++ Stands up to its names as a Crash Course
++ Nice overall structure
+
+### Cons
+- Some stuffs are outdated (eg: pyGal v2 is out as well as Django 2)
+
 --- 
 
 ## References and Documentations
